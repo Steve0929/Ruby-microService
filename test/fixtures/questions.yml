@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  statement: MyString
+  image: MyString
+  optionA: MyString
+  optionB: MyString
+  optionC: MyString
+  optionD: MyString
+  ans: MyString
+  creator: MyString
+  category: MyString
+  continent: MyString
+
+two:
+  statement: MyString
+  image: MyString
+  optionA: MyString
+  optionB: MyString
+  optionC: MyString
+  optionD: MyString
+  ans: MyString
+  creator: MyString
+  category: MyString
+  continent: MyString
